@@ -7,10 +7,8 @@
     <ul>
      <li>Mumbai</li>
      <li>Pune</li>
-     <li>Bangalore</li>
-     <li>kolkata</li>
-     <li>gujarat</li>
-
+     <li>Kolkata</li>
+     <li>Gujarat</li>
     </ul>
   </body>
 </html>
