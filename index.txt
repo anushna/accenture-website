@@ -8,6 +8,9 @@
      <li>Mumbai</li>
      <li>Pune</li>
      <li>Bangalore</li>
+     <li>kolkata</li>
+     <li>gujarat</li>
+
     </ul>
   </body>
 </html>
